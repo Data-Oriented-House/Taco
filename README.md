@@ -1,2 +1,2 @@
 # Taco
-Typesafe And Compressed Networking Library
+An optionally write-time and run-time typesafe networking library powered by the [Squash](https://data-oriented-house.github.io/Squash/) serdes library.
