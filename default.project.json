@@ -1,0 +1,14 @@
+{
+  "name": "Taco",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "$path": "src",
+
+      "Packages": {
+        "$path": "Packages"
+      }
+    }
+  }
+}
